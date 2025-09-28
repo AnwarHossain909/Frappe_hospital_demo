@@ -4,4 +4,16 @@
 *.swp
 tags
 node_modules
-__pycache__
+echo__pycache__
+venv/
+env/
+sites/assets/
+config/pids/
+
+
+echo "__pycache__/
+*.pyc
+*.log
+node_modules/
+.env
+"
